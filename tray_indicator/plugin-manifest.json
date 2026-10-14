@@ -1,6 +1,6 @@
 {
   "authors": [
-    "Ralf <ralf@bj-ig.de>"
+    "Ralf Müller <ralf@woIchArbeite.de>"
   ],
   "config_dialog": false,
   "description": "Shows the number of unread messages as badge on the macOS Dock icon.",
