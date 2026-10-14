@@ -1,0 +1,17 @@
+{
+  "authors": [
+    "Ralf <ralf@bj-ig.de>"
+  ],
+  "config_dialog": false,
+  "description": "Shows the number of unread messages as badge on the macOS Dock icon.",
+  "homepage": "",
+  "name": "Tray Indicator",
+  "platforms": [
+    "darwin"
+  ],
+  "requirements": [
+    "gajim>=2.6.0"
+  ],
+  "short_name": "tray_indicator",
+  "version": "0.1.0"
+}
